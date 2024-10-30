@@ -1,0 +1,170 @@
+.cshtm-owl-carousel-l1 .owl-carousel {
+    padding: 1px 30px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .cshtm-text{
+    padding: 10px;
+}
+
+.cshtm-owl-carousel-l1 .cshtm-text p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+    position: relative;
+    font-weight: 500;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cshtm-owl-carousel-l1 .cshtm-text span{ 
+    display: block;
+    width: 20px;
+    height: 2px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    bottom: 0;
+    opacity: 0.6;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .cshtm-text:active{
+    cursor: pointer;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .cshtm-desc{
+    display: inline-block;
+    text-align: left;
+}
+
+.cshtm-owl-carousel-l1 .cshtm-desc h4{
+    width: 100%;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 22px;
+    letter-spacing: 0.048em;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.cshtm-owl-carousel-l1 .cshtm-desc a, .cshtm-owl-carousel-l1 .cshtm-desc p{
+    font-size: 14px !important;
+    margin: 0;
+    margin-bottom: 5px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-dots{
+	margin: 60px;
+    margin-top: 40px;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-dot{
+	display: inline-block;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-dot.active span{
+	opacity: 1;
+    transition: all 300ms linear 0ms;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-dot span {
+    border-radius: 20px;
+    display: block;
+    height: 10px;
+    margin: 5px 7px;
+    width: 10px;
+    transition: all 300ms linear 0ms;
+}
+
+.cshtm-owl-carousel-l1 .owl-dot span::before{
+    width: 0;
+    height: 0;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-prev, .cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-next{
+    display: inline-block;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none !important;
+    border-radius: 0 !important;
+    background: none;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-prev{
+    position: absolute;
+    left: 0;
+    width: 28px;
+    height: 100%;
+    cursor: pointer;
+    z-index: 996;
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -112px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-prev:hover{
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -140px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-next{
+    position: absolute;
+    right: 0;
+    width: 28px;
+    height: 100%;
+    cursor: pointer;
+    z-index: 996;
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -168px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l1 .owl-carousel .owl-nav .owl-next:hover{
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -196px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+
+.cshtm-owl-carousel-l1 .owl-carousel .cshtm-quote{
+    font-weight: 900;
+    font-style: italic;
+    font-size: 50px;
+    display: block;
+    margin-top: 50px;
+    line-height: 30px;
+    font-family: 'Playfair Display', serif;
+}
+.cshtm-owl-carousel-l1 .owl-carousel .cshtm-avatar{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    vertical-align: top;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.cshtm-owl-carousel-l1 .cshtm-avatar img{
+    height: 40px !important;
+    width: 40px !important;
+    border-radius: 50%;
+}
+
+
+
+
+

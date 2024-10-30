@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 14:38+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Csh Testimonials\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-csh-testimonials-admin.php:118
+#: admin/class-csh-testimonials-admin.php:120
+msgid "Testimonials"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:119
+#: admin/class-csh-testimonials-admin.php:121
+msgid "Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:122
+msgid "Add New"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:123
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:124
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:125
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:126
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:127
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:128
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:129
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:130
+msgid "No Testimonial found."
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:131
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:140
+msgid "Description."
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:163
+msgid "Categories"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:164
+msgid "Category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:165
+msgid "Search category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:166
+msgid "Popular category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:167
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:168
+msgid "Parent Category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:170
+msgid "Edit Category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:171
+msgid "Update Category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:172
+msgid "Add New Category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:173
+msgid "New Category Name"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:174
+msgid "Separate categories with commas"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:175
+msgid "Add or remove categories"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:176
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:179
+msgid "category"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:195
+msgid "Title"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:196
+msgid "Full Name"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:197
+msgid "Avatar"
+msgstr ""
+
+#: admin/class-csh-testimonials-admin.php:198
+msgid "Date"
+msgstr ""

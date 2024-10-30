@@ -1,0 +1,154 @@
+.cshtm-owl-carousel-l2 .owl-carousel {
+    padding: 1px 30px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.cshtm-owl-carousel-l2  .owl-carousel .cshtm-text{
+    padding: 10px;
+}
+
+.cshtm-owl-carousel-l2  .cshtm-text p{
+    text-align: center;
+    font-size: 25px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    position: relative;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cshtm-owl-carousel-l2  .owl-carousel .cshtm-text:active{
+    cursor: pointer;
+}
+
+.cshtm-owl-carousel-l2  .cshtm-desc h4{
+    width: 100%;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 22px;
+    letter-spacing: 0.048em;
+    text-transform: capitalize;
+    margin: 10px 0;
+}
+
+.cshtm-owl-carousel-l2  .cshtm-desc a, .cshtm-owl-carousel-l2  .cshtm-desc p{
+    font-size: 13px !important;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-dots{
+    margin-top: 40px;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-dot{
+	display: inline-block;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-dot.active span{
+    opacity: 1;
+    transition: all 300ms linear 0ms;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-dot span {
+    border-radius: 20px;
+    display: block;
+    height: 10px;
+    margin: 5px 7px;
+    width: 10px;
+    transition: all 300ms linear 0ms;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-dot span {
+    border-radius: 20px;
+    display: block;
+    height: 10px;
+    margin: 5px 7px;
+    width: 10px;
+    transition: all 300ms linear 0ms;
+}
+
+.cshtm-owl-carousel-l2 .owl-dot span::before{
+    width: 0;
+    height: 0;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-prev, .cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-next{
+    display: inline-block;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none !important;
+    border-radius: 0 !important;
+    background: none;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-prev{
+    position: absolute;
+    left: 0;
+    width: 28px;
+    height: 100%;
+    cursor: pointer;
+    z-index: 996;
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -112px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-prev:hover{
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -140px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-next{
+    position: absolute;
+    right: 0;
+    width: 28px;
+    height: 100%;
+    cursor: pointer;
+    z-index: 996;
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -168px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l2 .owl-carousel .owl-nav .owl-next:hover{
+    background-image: url('../../assets/images/bar-button.png');
+    background-repeat: no-repeat;
+    background-position: -196px center;
+    transition: background-color 0.25s ease 0s;
+}
+
+.cshtm-owl-carousel-l2  .owl-carousel .cshtm-quote{
+    font-weight: 900;
+    font-style: italic;
+    font-size: 70px;
+    display: block;
+    line-height: 30px;
+    margin-top: 50px;
+    font-family: 'Playfair Display', serif;
+}
+
+.cshtm-owl-carousel-l2  .cshtm-avatar img{
+    height: 60px !important;
+    width: 60px !important;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+
+
+

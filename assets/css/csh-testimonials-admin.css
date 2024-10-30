@@ -1,0 +1,18 @@
+
+#cshtm-meta-wrap  .cshtm-meta-label{
+	display: inline-block;
+	width: 15%;
+}
+
+#cshtm-meta-wrap input[type = 'text'], input[type = 'url']{
+	width: 50%;
+	height: 32px !important;
+	margin: 0;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+select[name = "cshtm_column"], input[name = "cshtm_dots_each"]{
+	width: 30%;
+}
+
